@@ -15,7 +15,7 @@ export default function Home() {
         <title>Tugas Penjualan</title>
       </Head>
       <main
-        className={`${inter.className}  flex flex-col justify-center items-center min-h-screen mx-10 lg:mx-20 lg:w-[500px] lg:m-auto gap-10`}
+        className={`${inter.className} flex flex-col justify-center items-center min-h-screen mx-10 lg:w-[500px] lg:m-auto gap-10`}
       >
         <div className="flex justify-between w-full">
           <div className="bg-slate-50 h-[40px] w-[40px] rounded-xl hover:scale-105 duration-500 transition-all items-center flex justify-center">
